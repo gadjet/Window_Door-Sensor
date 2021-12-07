@@ -11,3 +11,5 @@ in a terminal program.
 There is an additiona png file showing the Scope trace of the power consumption profiile, although this shows the length to be 626mS it is usually around 526mS.
 
 Using an online calculator to work out how long a battery would last with a couple of triggers an hour you can get well over a year on a 600mAH battery.
+
+More information can also be found on www.gadjet.co.uk
