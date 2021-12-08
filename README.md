@@ -12,4 +12,6 @@ There is an additiona png file showing the Scope trace of the power consumption 
 
 Using an online calculator to work out how long a battery would last with a couple of triggers an hour you can get well over a year on a 600mAH battery.
 
+On the rear half of the 3D printed case I used M3 Brass threaded inserts for the M3 cap screws to thread into.
+
 More information can also be found on www.gadjet.co.uk
